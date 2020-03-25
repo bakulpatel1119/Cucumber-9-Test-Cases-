@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c3a5cb6-2a37-4f6b-968e-86c4bf93be5e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="RunTest" />
+    </enabled-run-configurations>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZaQCkks9XONIPgmRqxKxLLJQQr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/NopCucumber" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dev\NopCommTestCasesCucumber\src\test\java\NopCucumber" />
+      <recent name="C:\Dev\NopCommTestCasesCucumber\src\test\Resources" />
+      <recent name="C:\Dev\NopCommTestCasesCucumber\src\test" />
+      <recent name="C:\Dev\NopCommTestCasesCucumber\src\main\java\NopCucumber" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NopCommTestCasesCucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NopCucumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NopCucumber" />
+      <option name="MAIN_CLASS_NAME" value="NopCucumber.RunTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=true" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c3a5cb6-2a37-4f6b-968e-86c4bf93be5e" name="Default Changelist" comment="" />
+      <created>1585074599119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585074599119</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585157785993">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585157785993" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585075005750">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1585075005750" />
+    <state width="1306" height="464" key="GridCell.Tab.0.bottom" timestamp="1585157788584">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="464" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585157788584" />
+    <state width="1306" height="464" key="GridCell.Tab.0.center" timestamp="1585157788584">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="464" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585157788584" />
+    <state width="1306" height="464" key="GridCell.Tab.0.left" timestamp="1585157788584">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="464" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585157788584" />
+    <state width="1306" height="464" key="GridCell.Tab.0.right" timestamp="1585157788584">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="464" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585157788584" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1585075463098">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1585075463098" />
+  </component>
+</project>
